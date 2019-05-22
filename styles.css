@@ -3,6 +3,22 @@ body {
     overflow: hidden;
 }
 
+input {
+    background: none;
+    border: solid white 1.5px;
+    padding: 2px;
+    font-size: 14px;
+    color: inherit;
+}
+
+label {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#inputs {
+    color: white;
+}
+
 .container {
     position: absolute;
     top: 50%;
