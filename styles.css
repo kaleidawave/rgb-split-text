@@ -25,7 +25,7 @@ body {
     transform: translate(5px, 5px);
     mix-blend-mode: screen;
     color: rgb(0, 255, 0);
-    width: 100%;
+    top: 87px;
 }
 
 .glitch::before {
@@ -35,5 +35,4 @@ body {
     transform: translate(5px, 10px);
     mix-blend-mode: screen;
     color: rgb(255, 0, 0);
-    width: 100%;
 }
